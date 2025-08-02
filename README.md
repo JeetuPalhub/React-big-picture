@@ -1,1 +1,1 @@
-React Full Source Code
+React and Next.js Full Source Code
